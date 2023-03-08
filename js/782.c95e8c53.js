@@ -1,0 +1,8 @@
+"use strict";(self["webpackChunkparsecongressscheduler"]=self["webpackChunkparsecongressscheduler"]||[]).push([[782],{8782:function(n,e,t){t.r(e),t.d(e,{allDay:function(){return h},createEvent:function(){return k},dateFormat:function(){return w},day:function(){return f},default:function(){return D},deleteEvent:function(){return l},month:function(){return s},months:function(){return o},noEvent:function(){return y},today:function(){return i},week:function(){return d},weekDays:function(){return r},weekDaysShort:function(){return u},year:function(){return c},years:function(){return a}});
+/**
+  * vue-cal v4.8.1
+  * (c) 2022 Antoni Andre <antoniandre.web@gmail.com>
+  * @license MIT
+  */
+const r=["星期一","星期二","星期三","星期四","星期五","星期六","星期日"],u=["一","二","三","四","五","六","日"],o=["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月"],a="年",c="本年",s="月",d="周",f="日",i="今日",y="暂无活动",h="整天",l="删除",k="新建活动",w="YYYY MMMM D dddd",D={weekDays:r,weekDaysShort:u,months:o,years:"年",year:"本年",month:"月",week:"周",day:"日",today:"今日",noEvent:"暂无活动",allDay:"整天",deleteEvent:"删除",createEvent:"新建活动",dateFormat:"YYYY MMMM D dddd"}}}]);
+//# sourceMappingURL=782.c95e8c53.js.map

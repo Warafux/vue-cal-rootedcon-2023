@@ -1,0 +1,8 @@
+"use strict";(self["webpackChunkparsecongressscheduler"]=self["webpackChunkparsecongressscheduler"]||[]).push([[386],{3386:function(n,e,t){t.r(e),t.d(e,{allDay:function(){return y},am:function(){return v},createEvent:function(){return l},dateFormat:function(){return k},day:function(){return f},default:function(){return Y},deleteEvent:function(){return h},month:function(){return i},months:function(){return u},monthsGenitive:function(){return o},noEvent:function(){return m},pm:function(){return M},today:function(){return d},week:function(){return s},weekDays:function(){return r},year:function(){return a},years:function(){return c}});
+/**
+  * vue-cal v4.8.1
+  * (c) 2022 Antoni Andre <antoniandre.web@gmail.com>
+  * @license MIT
+  */
+const r=["Δευτέρα","Τρίτη","Τετάρτη","Πέμπτη","Παρασκευή","Σάββατο","Κυριακή"],u=["Ιανουάριος","Φεβρουάριος","Μάρτιος","Απρίλιος","Μάιος","Ιούνιος","Ιούλιος","Αύγουστος","Σεπτέμβριος","Οκτώβριος","Νοέμβριος","Δεκέμβριος"],o=["Ιανουαρίου","Φεβρουαρίου","Μαρτίου","Απριλίου","Μαΐου","Ιουνίου","Ιουλίου","Αυγούστου","Σεπτεμβρίου","Οκτωβρίου","Νοεμβρίου","Δεκεμβρίου"],c="Έτη",a="Έτος",i="Μήνα",s="Εβδομάδα",f="Ημέρα",d="Σήμερα",m="Κανένα συμβάν",y="Ημερήσιο συμβάν",h="Διαγραφή",l="Δημιουργία συμβάντος",k="dddd D MMMMG YYYY",v="π.μ.",M="μ.μ.",Y={weekDays:r,months:u,monthsGenitive:o,years:"Έτη",year:"Έτος",month:"Μήνα",week:"Εβδομάδα",day:"Ημέρα",today:"Σήμερα",noEvent:"Κανένα συμβάν",allDay:"Ημερήσιο συμβάν",deleteEvent:"Διαγραφή",createEvent:"Δημιουργία συμβάντος",dateFormat:"dddd D MMMMG YYYY",am:"π.μ.",pm:"μ.μ."}}}]);
+//# sourceMappingURL=386.75474e1a.js.map
